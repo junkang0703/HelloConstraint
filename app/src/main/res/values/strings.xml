@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloConstraint</string>
+    <string name="zero_text">Zero</string>
+    <string name="count_text">Count</string>
+    <string name="zero_texts">0</string>
+    <string name="toast_message">Man Jun Kang 19WMD01249</string>
+    <string name="toast_text">Toast</string>
+</resources>
